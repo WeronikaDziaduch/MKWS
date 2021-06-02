@@ -1,3 +1,1 @@
-# cantera_rocket_engine
-fcbbfc
-gjvk
+# Ignition delay for hydrogen and alkane mixtures with air
